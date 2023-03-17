@@ -75,7 +75,7 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
   - Création de nouvelles variables à partir des variables initiales, 
   - Normalisation des variables si nécessaire, 
   - Représentation graphique de l'importance des variables et description de la méthode de détermination de l'importance des variables.
-- Entraînement de Modèle Supervisé Classique : 
+- Entraînement de Modèles Supervisés Classiques : 
   - Identification de la variable cible, 
   - Séparation du jeu de données en jeu d'entraînement et en jeu de test, 
   - Prise en compte du déséquilibre des classes (par exemple via un oversampling de type SMOTE ou via l'utilisation de "class_weight"), 
