@@ -199,7 +199,9 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
 - Capacité à travailler en équipe multidisciplinaire et à communiquer efficacement avec des parties prenantes techniques et non techniques
 
 
-## Conclusion
+---
+
+---
 
 Grâce à ma formation et aux projets que j'ai réalisés, je suis en mesure de travailler sur des projets d'IA et de Data Science dans un large éventail de domaines, allant de la santé et de la finance à l'e-commerce et à l'automobile. Je suis passionné par ce domaine en constante évolution et je suis prêt à relever les défis et à trouver des solutions innovantes pour répondre aux besoins de mes futurs employeurs.
 
