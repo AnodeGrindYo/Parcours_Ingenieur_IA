@@ -41,7 +41,7 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
 - Identification des valeurs aberrantes dans une distribution statistique
 - Tracé de graphiques pour représenter des distributions statistiques
 - Utilisation des fonctionnalités d'édition de cellule Markdown de Jupyter pour commenter et mettre en forme l'analyse de données
-- Création d'une présentation générale du jeu de données, d'une démarche méthodologique d'analyse de données, et d'une synthèse de l'analyse de données, avec des titres visuellement en évidence.
+- Création d'une présentation générale du jeu de données, d'une démarche méthodologique d'analyse de données, et d'une synthèse de l'analyse de données.
 
 ### Projet 03: Préparez des données pour un organisme de santé publique
 #### Repository
@@ -62,7 +62,6 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
 - Utilisation de différents types de graphiques pour représenter les résultats
 - Justification des types de graphiques utilisés dans le Jupyter Notebook
 - Écriture, test et utilisation de fonctions pour effectuer une représentation graphique
-- Affichage lisible et explicite des titres, valeurs des axes des abscisses et des ordonnées et légendes
 - Utilisation de graphiques interactifs pour illustrer les analyses lors de la présentation.
 
 ### Projet 04: Construisez un modèle de scoring
@@ -75,7 +74,7 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
   - Création de nouvelles variables à partir des variables initiales, 
   - Normalisation des variables si nécessaire, 
   - Représentation graphique de l'importance des variables et description de la méthode de détermination de l'importance des variables.
-- Entraînement de Modèle Supervisé Classique : 
+- Entraînement de Modèles Supervisés Classiques : 
   - Identification de la variable cible, 
   - Séparation du jeu de données en jeu d'entraînement et en jeu de test, 
   - Prise en compte du déséquilibre des classes (par exemple via un oversampling de type SMOTE ou via l'utilisation de "class_weight"), 
@@ -111,7 +110,7 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
 - Collecte de données via une API en écrivant et testant une requête, en récupérant les champs nécessaires et en stockant les données collectées dans un fichier utilisable.
 - Prétraitement de données non structurées pour obtenir un jeu de données utilisable, comprenant le nettoyage des champs de texte, l'application de transformations telles que le stemming, la tokenization ou la lemmatization, la création de bag-of-words pour le texte, et le développement d'algorithmes d'extraction de features pour les images, incluant le filtrage du bruit et l'égalisation des histogrammes des images.
 - Utilisation de techniques de réduction de la dimension en appliquant une méthode de réduction de dimension sur les données texte et images, en justifiant le choix de la méthode et des paramètres retenus.
-- Visualisation de données de grandes dimensions en créant au moins un graphique représentant des informations contenant plus de deux dimensions, en justifiant le choix de la méthode de représentation graphique et en facilitant la lecture du graphique pour un public non expert.
+- Visualisation de données de grandes dimensions en créant des graphiques représentant des informations contenant plus de deux dimensions, en justifiant le choix de la méthode de représentation graphique et en facilitant la lecture du graphique pour un public non expert.
 
 ### Projet 07: Détectez les Bad Buzz grâce au Deep Learning
 #### Repository
@@ -128,7 +127,7 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
 - Mise en oeuvre de la préparation des données (input ids, attention mask) pour le modèle BERT.
 - Évaluation de la performance d'un modèle de Deep Learning, en choisissant une métrique adaptée à la problématique métier et en expliquant le choix de la métrique d'évaluation.
 - Évaluation de la performance d'un modèle de référence, qui sert de comparaison pour évaluer la performance des modèles plus complexes.
-- Calcul d'au moins un autre indicateur pour comparer les modèles, comme le temps nécessaire pour l'entraînement du modèle.
+- Calcul d'indicateurs pour comparer les modèles, comme le temps nécessaire pour l'entraînement du modèle.
 - Optimisation des hyperparamètres du modèle choisi, comme le choix de la fonction Loss, le Batch Size, le nombre d'Epochs.
 - Présentation d'une synthèse comparative des différents modèles.
 - Mise en oeuvre d'un pipeline d'entraînement des modèles reproductible.
@@ -199,7 +198,9 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
 - Capacité à travailler en équipe multidisciplinaire et à communiquer efficacement avec des parties prenantes techniques et non techniques
 
 
-## Conclusion
+---
+
+---
 
 Grâce à ma formation et aux projets que j'ai réalisés, je suis en mesure de travailler sur des projets d'IA et de Data Science dans un large éventail de domaines, allant de la santé et de la finance à l'e-commerce et à l'automobile. Je suis passionné par ce domaine en constante évolution et je suis prêt à relever les défis et à trouver des solutions innovantes pour répondre aux besoins de mes futurs employeurs.
 
