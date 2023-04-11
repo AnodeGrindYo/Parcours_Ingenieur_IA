@@ -197,12 +197,28 @@ Pendant ma formation, j'ai travaillé sur onze projets qui m'ont permis de mettr
 - Maîtrise de la méthodologie de gestion de projet agile
 - Capacité à travailler en équipe multidisciplinaire et à communiquer efficacement avec des parties prenantes techniques et non techniques
 
+---
+
+---
+
+## Projets personnels IA :
+
+### Diffusion Models : Tout ce qu'il faut savoir
+#### Repository
+[Diffusion models : Tout ce qu'il faut savoir](https://github.com/AnodeGrindYo/DiffusionModels)
+Une série de Notebooks où j'explique en détail tout ce qu'il faut savoir sur les modèles de diffusion (Stable Diffusion, DALL-E, Google's Imagen), des maths à l'application en Python
+#### Compétences
+- Denoising Diffusion Probabilistic Models (DDPM ou Modèles de débruitage probabilistique)
+- PyTorch
+- PIL
+...
 
 ---
 
 ---
 
 Grâce à ma formation et aux projets que j'ai réalisés, je suis en mesure de travailler sur des projets d'IA et de Data Science dans un large éventail de domaines, allant de la santé et de la finance à l'e-commerce et à l'automobile. Je suis passionné par ce domaine en constante évolution et je suis prêt à relever les défis et à trouver des solutions innovantes pour répondre aux besoins de mes futurs employeurs.
+
 
 
 
